@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-```js
+
 const chairul = {
     location: "Indonesia",
     role: "Full Stack Web Developer",
@@ -23,7 +23,6 @@ const chairul = {
     learning: ["Frameworks", "Database", "Mobile Development"],
     openToWork: true
 };
-````
 
 🎓 Graduate from SMK with a passion for technology and programming.
 💡 Experienced in building responsive dynamic and static websites.
