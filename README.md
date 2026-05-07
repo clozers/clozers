@@ -1,24 +1,113 @@
+````md
 <h1 align="center">Hi 👋, I'm Chairul Imam</h1>
-<img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
-<h3 align="justify">Lulusan SMK yang memiliki ketertarikan di bidang programing.Berpengalaman dalam pembuatan website dinamis dan statis.Terbuka untuk Freelancer di bidang web developer.</h3>
 
-- 🌱 I’m currently learning **Ui/Ux , Framework , Data Base, Web Development.**
+<h3 align="center">
+💻 Full Stack Web Developer | UI/UX Enthusiast | Freelancer from Indonesia 🇮🇩
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://clozers.github.io/](https://clozers.github.io/)
-
-- 📫 How to reach me **chairulimam305@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vgbmM82b-R8wfLha2M2U4g5X6O7FonIP/view?usp=sharing](https://drive.google.com/file/d/1vgbmM82b-R8wfLha2M2U4g5X6O7FonIP/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am Funny:>**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chairul-imam-826258239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chairul imam" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clozers&show_icons=true&locale=en&layout=compact" alt="clozers" /></p>
+---
 
+## 🚀 About Me
+
+```js
+const chairul = {
+    location: "Indonesia",
+    role: "Full Stack Web Developer",
+    focus: ["Web Development", "UI/UX", "Backend Development"],
+    learning: ["Frameworks", "Database", "Mobile Development"],
+    openToWork: true
+};
+````
+
+🎓 Graduate from SMK with a passion for technology and programming.
+💡 Experienced in building responsive dynamic and static websites.
+🤝 Available for freelance and collaboration projects.
+🔥 Always learning and improving coding skills every day.
+
+---
+
+## 🌐 Portfolio & Resume
+
+<p align="left">
+<a href="https://clozers.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/🌍_Portfolio-000?style=for-the-badge" />
+</a>
+
+<a href="https://drive.google.com/file/d/1vgbmM82b-R8wfLha2M2U4g5X6O7FonIP/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/📄_Resume-0078D4?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/chairul-imam-826258239/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:chairulimam305@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,codeigniter,mysql,python,kotlin,git,github,vscode&perline=6" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clozers&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clozers&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clozers&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=clozers&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```txt
+while(alive){
+   eat();
+   code();
+   sleep();
+   repeat();
+}
+```
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=clozers&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+```
